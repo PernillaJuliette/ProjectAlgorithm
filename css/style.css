@@ -1,6 +1,12 @@
 /* Feel free to change me and make me your own! */
 
 body {
+
+    background-image: url('data.jpg');
+    background-size: cover; /* Scales the image to cover the entire background */
+    background-position: center; /* Centers the image horizontally and vertically */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+}
   background-color: #CCCCCC; 
   font-family: Georgia, serif; 
 }
